@@ -7,9 +7,9 @@ theme = "timer"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        # name    = "Contact"
-        # url     = "/contact"
-        # weight  = 6
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 6
 
 # Site Params
 [params]
