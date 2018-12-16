@@ -7,6 +7,10 @@ theme = "timer"
 [menu]
     # Navbar Menus
     [[menu.nav]]
+        name    = "About"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
         name    = "Contact"
         url     = "/contact"
         weight  = 6
@@ -46,9 +50,9 @@ theme = "timer"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Meet Reiden, one of the newest farmers at Headwaters Incubator Program run by the East Multnomah Soil and Water Conservation District. Reiden was born on the Oregon coast and has spent most of her life in the Pacific Northwest. After working for a local staffing agency as a recruiter,she decided to pursue her interest in agriculture by returning to school. Reiden now has a bachelor's in Agriculture Sciences from Oregon State University as well as an Organic Farming Certificate from Clackamas Community College. Before starting Little Sun Farm, Reiden worked as an intern at two different vegetable farms in Oregon and also sold produce from her home garden at farmers markets in Portland."
-        image   = "images/about/about.jpg"
+        title   = "Under Construction"
+        content = "Brand new website, come back soon."
+        image   = ""
 
     # Call to Action
     [params.cta]
@@ -90,4 +94,4 @@ theme = "timer"
         # [[params.footer.social]]
         #     icon = "ion-social-github"
         #     link = "https://github.com"
-    
+
