@@ -82,10 +82,6 @@ theme = "timer"
             icon = "ion-ios-email"
             link = "mailto:reiden@littlesunfarm.com"
         [[params.footer.social]]
-            class = "telephone"
-            icon = "ion-ios-telephone"
-            link = 'tel:5034732024'
-        [[params.footer.social]]
             class = "instagram"
             icon = "ion-social-instagram"
             link = "https://www.instagram.com/littlesunfarm/"
@@ -98,7 +94,6 @@ theme = "timer"
             text2 = ""
         [[params.contact.social]]
             icon = "ion-ios-telephone-outline"
-            link = 'tel:5034732024'
             text = "+1 503 484 4200"
         [[params.contact.social]]
             icon = "ion-social-instagram-outline"
