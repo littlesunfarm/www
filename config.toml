@@ -76,6 +76,7 @@ theme = "timer"
 
     # Footer section
     [params.footer]
+        site_url = "https://littlesunfarm.com"
         copyright_owner = "Little Sun Farm, LLC"
         [[params.footer.social]]
             class = "email"
