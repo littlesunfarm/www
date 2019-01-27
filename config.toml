@@ -90,3 +90,18 @@ theme = "timer"
             icon = "ion-social-instagram"
             link = "https://www.instagram.com/littlesunfarm/"
 
+    [params.contact]
+        [[params.contact.social]]
+            icon = "ion-ios-email-outline"
+            link = "mailto:reiden@littlesunfarm.com"
+            text = "reiden@littlesunfarm.com"
+            text2 = ""
+        [[params.contact.social]]
+            icon = "ion-ios-telephone-outline"
+            link = 'tel:5034732024'
+            text = "+1 503 484 4200"
+        [[params.contact.social]]
+            icon = "ion-social-instagram-outline"
+            link = "https://www.instagram.com/littlesunfarm/"
+            text = "littlesunfarm"
+
