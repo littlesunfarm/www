@@ -76,22 +76,17 @@ theme = "timer"
 
     # Footer section
     [params.footer]
-        customized  = false # Set this variable to true if you customized the design.
         copyright_owner = "Little Sun Farm, LLC"
-        copyright_since = "2018"
-        # [[params.footer.social]]
-        #     icon = "ion-social-facebook"
-        #     link = "https://facebook.com"
-        # [[params.footer.social]]
-        #     icon = "ion-social-twitter"
-        #     link = "https://twitter.com"
-        # [[params.footer.social]]
-        #     icon = "ion-social-linkedin"
-        #     link = "https://linkedin.com"
-        # [[params.footer.social]]
-        #     icon = "ion-social-googleplus"
-        #     link = "https://googleplus.com"
-        # [[params.footer.social]]
-        #     icon = "ion-social-github"
-        #     link = "https://github.com"
+        [[params.footer.social]]
+            class = "email"
+            icon = "ion-ios-email"
+            link = "mailto:reiden@littlesunfarm.com"
+        [[params.footer.social]]
+            class = "telephone"
+            icon = "ion-ios-telephone"
+            link = 'tel:5034732024'
+        [[params.footer.social]]
+            class = "instagram"
+            icon = "ion-social-instagram"
+            link = "https://www.instagram.com/littlesunfarm/"
 
