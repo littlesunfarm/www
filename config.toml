@@ -24,8 +24,8 @@ theme = "timer"
     # To use an image use 'logo' (logo itself) and 'logo_alt' (alternative text if image cannot displayed)
     # To use text as logo use 'logo_text'
     logo = "images/logo.png"
-    logo_alt = "LOGO"
-    # logo_text = "Little Sun Farm, LLC"
+    logo_alt = ""
+    logo_text = "Little Sun Farm, LLC"
 
     # Banner Section
     [params.banner]
