@@ -29,27 +29,27 @@ theme = "timer"
 
     # Banner Section
     [params.banner]
-        enable  = false
-        bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS REIDEN & I AM A"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
-        btn     = true
+        enable  = true
+        bgImage = "images/banner.png"
+        heading = "HI, WELCOME TO LITTLE SUN FARM!"
+        description = "Little Sun Farm grows mixed vegetables on 1/3 acre. Come support the farm by shopping at the Sunnyside or Hawthorne market starting summer 2019!"
+        btn     = false
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "FARMER"
+            title   = "GROWING ON 1/3 ACRE"
         [[params.banner.flipText]]
-            title   = "DREAMER"
+            title   = "LOCATED IN GRESHAM, OR"
         [[params.banner.flipText]]
-            title   = "CAT LOVER"
+            title   = "NATIVE-OWNED"
         [[params.banner.flipText]]
-            title   = "NE PORTLAND RESIDENT"
-        [[params.banner.flipText]]
-            title   = "NATIVE"
+            title   = "PASSIONATE ABOUT VEGETABLES"
+            [[params.banner.flipText]]
+                title   = "ESTABLISHED 2019"
 
     # Homepage About Section
     [params.about]
-        enable  = true
+        enable  = false
         title   = "Under Construction"
         content = "Brand new website, come back soon."
         image   = ""
@@ -64,7 +64,7 @@ theme = "timer"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "Recent Updates"
         subtitle= "Follow me while I get new ground up and running."
 
@@ -100,4 +100,3 @@ theme = "timer"
             icon = "ion-social-instagram-outline"
             link = "https://www.instagram.com/littlesunfarm/"
             text = "littlesunfarm"
-
