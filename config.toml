@@ -44,8 +44,8 @@ theme = "timer"
             title   = "NATIVE-OWNED"
         [[params.banner.flipText]]
             title   = "PASSION FOR LOCAL FOOD"
-            [[params.banner.flipText]]
-                title   = "ESTABLISHED 2019"
+        [[params.banner.flipText]]
+            title   = "ESTABLISHED 2019"
 
     # Homepage About Section
     [params.about]
