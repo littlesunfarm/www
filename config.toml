@@ -37,13 +37,13 @@ theme = "timer"
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "GROWING ON 1/3 ACRE"
+            title   = "1/3 ACRE"
         [[params.banner.flipText]]
-            title   = "LOCATED IN GRESHAM, OR"
+            title   = "GRESHAM, OR"
         [[params.banner.flipText]]
             title   = "NATIVE-OWNED"
         [[params.banner.flipText]]
-            title   = "PASSIONATE ABOUT VEGETABLES"
+            title   = "PASSION FOR LOCAL FOOD"
             [[params.banner.flipText]]
                 title   = "ESTABLISHED 2019"
 
