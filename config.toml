@@ -1,6 +1,6 @@
 baseURL = "https://littlesunfarm.com"
 languageCode = "en-us"
-title = "Little Sun Farm, LLC"
+title = "Little Sun Farm"
 theme = "timer"
 
 # Site Menus
@@ -25,7 +25,7 @@ theme = "timer"
     # To use text as logo use 'logo_text'
     logo = "images/logo.png"
     logo_alt = ""
-    logo_text = "Little Sun Farm, LLC"
+    logo_text = "Little Sun Farm"
 
     # Banner Section
     [params.banner]
