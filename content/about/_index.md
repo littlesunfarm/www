@@ -3,3 +3,8 @@ title: "About Us"
 date: 2018-07-12T18:19:33+06:00
 ---
 
+### About
+
+Little Sun Farm grows mixed vegetables on 1/3 of an acre and sells twice a week at local farmers markets. The farm was established in 2019 by Reiden Gustafson, sole owner and farmer. Reiden was born in Oregon and has lived the majority of her life in the Pacific Northwest. After finishing an associates degree and being unsure of what to major in, Reiden worked for several years for a Portland-based staffing agency. Through conducting hundreds of applicant interviews and listening to people share their stories about their individual career paths, Reiden realized her own personal desire to pursue agriculture. Reiden eventually returned to school and finished an organic farming program from Clackamas Community College in 2017, then graduated from OSU with a B.S. in agriculture sciences a year later. After working on a few different farms in Oregon, Reiden was accepted to the Headwaters farm incubator program in Gresham, OR, run by the East Multnomah Water and Soil Conservation District.
+
+As much as Reiden has felt at home growing up in the beautiful Pacific Northwest, she has also felt a desire to further connect to her Comanche and Laguna Pueblo roots. Pueblos have a long history of farming in what is now considered the American southwest. To honor this history, Reiden chose a farm name that incorporated one of her family’s Pueblo clans. Since her Pueblo tribe is a matrilineal society, the word ‘big’ is used to reference the maternal clan, and ‘little’ to indicate the paternal. Her family’s full clan name is thus Big Corn Little Sun. 
