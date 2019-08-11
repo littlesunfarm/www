@@ -31,19 +31,19 @@ theme = "timer"
     [params.banner]
         enable  = true
         bgImage = "images/banner.png"
-        heading = "HI, WELCOME TO LITTLE SUN FARM!"
-        description = "Little Sun Farm grows mixed vegetables on 1/3 acre. Come support the farm by shopping at the Sunnyside or Hawthorne market starting summer 2019!"
+        heading = "WELCOME TO LITTLE SUN FARM"
+        description = "Little Sun Farm grows mixed vegetables on 1/3 acre.   Come check out the farm's fresh veggies at the Happy Valley Farmers market (Sat 9-2) and the Hawthorne Farmers market (Tues 4-7:30)."
         btn     = false
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
+            title   = "FRESH VEGGIES SOLD LOCALLY"
+            [[params.banner.flipText]]
+                title   = "GRESHAM, OR"
+        [[params.banner.flipText]]
             title   = "1/3 ACRE"
         [[params.banner.flipText]]
-            title   = "GRESHAM, OR"
-        [[params.banner.flipText]]
-            title   = "NATIVE-OWNED"
-        [[params.banner.flipText]]
-            title   = "PASSION FOR LOCAL FOOD"
+            title   = "FEMALE & NATIVE-OWNED"
         [[params.banner.flipText]]
             title   = "ESTABLISHED 2019"
 
