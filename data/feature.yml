@@ -1,68 +1,68 @@
-enable  : true
-title   : Current Veggies
+enable: true
+title: Current Veggies
 subtitle: >
   Text (503) 484-4200 or email reiden@littlesunfarm.com to place orders. Free deliveries available for certain locations near Gresham and NE Portland.
-item    :
-  - icon  : ion-leaf
-    title : Salad Mix
-    description : >
+item:
+  - icon: ion-leaf
+    title: Salad Mix
+    description: >
 
-  - icon  : ion-leaf
-    title : Arugula
-    description : >
+  - icon: ion-leaf
+    title: Arugula
+    description: >
 
-  - icon  : ion-leaf
-    title : Rainbow Chard
-    description : >
+  - icon: ion-leaf
+    title: Rainbow Chard
+    description: >
 
-  - icon  : ion-leaf
-    title : Lettuce (Romaine or Red Butter)
-    description : >
+  - icon: ion-leaf
+    title: Lettuce (Romaine or Red Butter)
+    description: >
 
-  - icon  : ion-leaf
-    title : Zucchini
-    description : >
+  - icon: ion-leaf
+    title: Zucchini
+    description: >
 
-  - icon  : ion-leaf
-    title : European Slicing Cucumber
-    description : >
+  - icon: ion-leaf
+    title: European Slicing Cucumber
+    description: >
 
   - icon: ion-leaf
     title: Rattlesnake Green Bean
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Pickling Cucumber
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Celery
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Red Slicing Tomato
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Italian Flat-leaf Parsley
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Cilantro
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Dill
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Sweet Basil
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Hardneck Garlic
-    description : >
+    description: >
 
   - icon: ion-leaf
     title: Scallions
-    description : >
+    description: >

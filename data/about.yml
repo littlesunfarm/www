@@ -1,4 +1,4 @@
-enable  : true
-title   : About Little Sun Farm
-image   : images/about/about.jpg
+enable: true
+title: About Little Sun Farm
+image: images/about/about.jpg
 aboutItem: []
