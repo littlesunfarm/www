@@ -95,7 +95,7 @@ theme = "timer"
             text2 = ""
         [[params.contact.social]]
             icon = "ion-ios-telephone-outline"
-            text = "+1 503 484 4200"
+#text = "+1 503 484 4200"
         [[params.contact.social]]
             icon = "ion-social-instagram-outline"
             link = "https://www.instagram.com/littlesunfarm/"
