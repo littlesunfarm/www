@@ -7,6 +7,10 @@ theme = "timer"
 [menu]
     # Navbar Menus
     [[menu.nav]]
+        name    = "Gallery"
+        url     = "gallery"
+        weight  = 1
+    [[menu.nav]]
         name    = "About"
         url     = "about"
         weight  = 2
