@@ -36,7 +36,6 @@ theme = "timer"
         enable  = true
         bgImage = "images/banner.png"
         heading = "LITTLE SUN FARM"
-        "Fresh veggies grown & sold locally"
         description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
         btn     = false
         btnText = "Download More"
