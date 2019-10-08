@@ -34,7 +34,6 @@ theme = "timer"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/banner.png"
         heading = "LITTLE SUN FARM"
         description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
         btn     = false
