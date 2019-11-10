@@ -8,10 +8,10 @@
 
           {{ with .Resources.ByType "image" }}
             {{ range $index, $element := . }}
-            {{ $image400px := ($element.Resize "400x") }}
+            {{ $image360px := ($element.Fill "360x270") }}
             <div class="col-md-4 col-sm-6">
               <a href="{{ $element.RelPermalink | absURL }}" data-fancybox="gallery">
-                  <img src="{{ $image400px.RelPermalink | absURL }}" />
+                  <img src="{{ $image360px.RelPermalink | absURL }}" />
               </a>
             </div>
             {{ end }}
