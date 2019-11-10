@@ -27,7 +27,12 @@
     {{ "<!-- slick slider -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }}">
     {{ "<!-- Fancybox -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ "plugins/facncybox/jquery.fancybox.css" | absURL }}">
+    <!-- https://fancyapps.com/fancybox/3/ -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
     {{ "<!-- hover -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/hover/hover-min.css" | absURL }}">
     {{ "<!-- template main css file -->" | safeHTML }}
