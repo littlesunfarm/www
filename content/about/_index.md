@@ -3,6 +3,9 @@ title: "About Us"
 date: 2018-07-12T18:19:33+06:00
 ---
 
-Little Sun Farm, LLC grows salad greens and other mixed vegetables on a third of an acre and sells produce at farmers markets in the Portland metro area. The farm leases land at Headwaters, an incubator farm owned by the East Multnomah Soil and Water Conservation District.
+Little Sun Farm, LLC grows diversified vegetables on less than one acre and sells at two farmers markets in the Portland metro area. The farm is currently part of the Headwaters Incubator Program in Gresham, OR, a program helping small farming businesses by providing access to land and infrastructure. Little Sun Farm is a female and Native-owned business run by Reiden Gustafson. Reiden is part Laguna Pueblo from New Mexico and the name Little Sun comes from one of her family’s clan names. 
 
-Little Sun Farm is owned and managed by Reiden Gustafson, who was born in Oregon and grew up mostly in the Pacific Northwest. The name Little Sun comes from one of Reiden’s Pueblo Indian clan names. In addition to an agriculture degree from OSU and an organic farming certificate from Clackamas Community College, Reiden has also worked on a few different organic vegetable farms here in Oregon.
+Before starting the farm in 2019, Reiden completed an Agriculture Sciences degree from Oregon State University and an Organic Farming certificate program from Clackamas Community College. While not certified organic, Little Sun Farm is committed to following common organic methods. Some of these include cover cropping, crop rotation, the use of row cover, and zero synthetic pesticides. 
+
+Check out the farm’s website littlesunfarm.com or follow on Instagram @littlesunfarm to see the latest happenings!
+

@@ -61,8 +61,8 @@ theme = "timer"
     # Call to Action
     [params.cta]
         enable  = false
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        title   = "Follow on Instagram!"
+        content = "Stay in the loop. See what's happening on the farm."
         btnText = "Contact with me"
         btnURL  = "/contact"
 
