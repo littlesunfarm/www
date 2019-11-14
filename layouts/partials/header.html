@@ -36,9 +36,7 @@
     {{ "<!-- hover -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/hover/hover-min.css" | absURL }}">
     {{ "<!-- template main css file -->" | safeHTML }}
-    {{ with resources.Get "css/style.css" }}
-    <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" media="screen">
-    {{ end}}
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     <link rel="stylesheet" href="{{ "othercss/custom.css" | absURL }}">
 </head>
 
