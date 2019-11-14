@@ -25,7 +25,7 @@ pipeline {
       }
 
       steps {
-        sh 'rsync -rlt --del public/ webdeploy@com1.larch.space:/usr/local/www/littlesunfarm.com/'
+        sh 'rsync -rltP --del public/ webdeploy@com1.larch.space:/usr/local/www/littlesunfarm.com/'
       }
     }
   }
