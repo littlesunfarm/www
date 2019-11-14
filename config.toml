@@ -7,13 +7,17 @@ theme = "timer"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "Gallery"
-        url     = "gallery"
-        weight  = 1
-    [[menu.nav]]
         name    = "About"
         url     = "about"
         weight  = 2
+    #[[menu.nav]]
+    #    name    = "Markets"
+    #    url     = "markets"
+    #    weight  = 3
+    [[menu.nav]]
+        name    = "Gallery"
+        url     = "gallery"
+        weight  = 4
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
@@ -30,6 +34,32 @@ theme = "timer"
     logo = "images/logo.png"
     logo_alt = ""
     logo_text = "Little Sun Farm"
+
+    [params.grid]
+        enable  = true
+        btn     = false
+        btnText = "Download More"
+        btnURL  = "https://themefisher.com/"
+        [[params.grid.block]]
+            title   = "About"
+            url  = "/about"
+            image  = "/images/about/about.jpg"
+        #[[params.grid.block]]
+        #    title   = "Markets"
+        #    url  = "/markets"
+        #    image  = "/images/Markets.jpg"
+        [[params.grid.block]]
+            title   = "Farm Pics"
+            url  = "/gallery"
+            image  = "/images/Gallery.jpg"
+        #[[params.grid.block]]
+        #    title   = "Blog"
+        #    url  = "/blog"
+        #    image  = "/images/Blog.jpg"
+        [[params.grid.block]]
+            title   = "Contact Us"
+            url  = "/contact"
+            image  = "/images/Contact.jpg"
 
     # Banner Section
     [params.banner]
@@ -54,13 +84,22 @@ theme = "timer"
     # Homepage About Section
     [params.about]
         enable  = false
-        title   = "Under Construction"
-        content = "Brand new website, come back soon."
+        title   = "About"
+        image   = ""
+
+    [params.gallery]
+        enable  = false
+        title   = "Farm pics"
+        image   = ""
+
+    [params.markets]
+        enable  = false
+        title   = "Markets"
         image   = ""
 
     # Call to Action
     [params.cta]
-        enable  = false
+        enable  = true
         title   = "Follow on Instagram!"
         content = "Stay in the loop. See what's happening on the farm."
         btnText = "Contact me"
@@ -68,7 +107,7 @@ theme = "timer"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = false
+        enable  = true
         title   = "Recent Updates"
         subtitle= "Follow me while I get new ground up and running."
 
