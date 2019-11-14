@@ -38,8 +38,8 @@ theme = "timer"
     [params.grid]
         enable  = true
         btn     = false
-        btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
+        btnText = "www"
+        btnURL  = "https://littlesunfarm.com"
         [[params.grid.block]]
             title   = "About"
             url  = "/about"
@@ -64,7 +64,7 @@ theme = "timer"
     # Banner Section
     [params.banner]
         enable  = true
-        #heading = "LITTLE SUN FARM"
+        heading = "Little Sun Farm"
         #description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
         btn     = false
         btnText = "www"
