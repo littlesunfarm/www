@@ -6,5 +6,8 @@ figure img {
   object-fit: cover;
   width: 360px;
   height: 270px;
+}
 
+#footer .social li a {
+  font-size: 30px;
 }
