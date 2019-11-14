@@ -64,21 +64,22 @@ theme = "timer"
     # Banner Section
     [params.banner]
         enable  = true
-        heading = "LITTLE SUN FARM"
-        description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
+        #heading = "LITTLE SUN FARM"
+        #description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
         btn     = false
-        btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
-            [[params.banner.flipText]]
-                title   = "GRESHAM, OR"
+        btnText = "www"
+        btnURL  = "https://littlesunfarm.com/"
+        flip    = false
+        [[params.banner.flipText]]
+            title   = "GRESHAM, OR"
         [[params.banner.flipText]]
             title   = "1/3 ACRE"
         [[params.banner.flipText]]
             title   = "FEMALE & NATIVE-OWNED"
         [[params.banner.flipText]]
             title   = "EST 2019"
-          [[params.banner.flipText]]
-            title   = "FOLLOW ON INSTAGRAM @LITTLESUNFARM"
+        [[params.banner.flipText]]
+          title   = "FOLLOW ON INSTAGRAM @LITTLESUNFARM"
 
 
     # Homepage About Section
