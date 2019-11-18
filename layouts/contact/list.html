@@ -84,6 +84,9 @@
                 </div>
             </div>
             {{ end }}
+            <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
+                {{ with .Site.Data.contact.image }}<img src="{{ . | absURL }}" alt="" class="img-fluid">{{ end }}
+            </div>
         </div>
     </div>
 </section>
