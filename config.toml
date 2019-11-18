@@ -57,7 +57,7 @@ theme = "timer"
         #    url  = "/blog"
         #    image  = "/images/Blog.jpg"
         [[params.grid.block]]
-            title   = "Contact Us"
+            title   = "Contact"
             url  = "/contact"
             image  = "/images/Contact.jpg"
 

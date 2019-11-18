@@ -189,7 +189,7 @@ a:hover {
 
 /*=== MEDIA QUERY ===*/
 .top-bar {
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   width: 100%;
   background: #fff;
@@ -290,7 +290,7 @@ a:hover {
   background-position: center bottom;
   background-size: cover;
   /* background-attachment: fixed; */
-  padding: 230px 0;
+  padding: 80px 0;
   color: #fff;
   /* box-shadow: 0 0 8px rgba(0, 0, 0, 0.3); */
   position: relative;
