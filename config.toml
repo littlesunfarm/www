@@ -43,7 +43,7 @@ theme = "timer"
         [[params.grid.block]]
             title   = "About"
             url  = "/about"
-            image  = "/images/about/about.jpg"
+            image  = "/images/about/About.jpg"
         #[[params.grid.block]]
         #    title   = "Markets"
         #    url  = "/markets"
