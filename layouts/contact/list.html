@@ -6,69 +6,7 @@
 {{ "<!-- Contact Section Start -->" | safeHTML }}
 <section id="contact-section">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 mb-5 mb-md-0">
-                <!-- <div class="block"> -->
-                <!--     {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".3s">{{ . }}</h2>{{ end }} -->
-                <!--     {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle&#45;des wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".5s">{{ . }}</p>{{ end }} -->
-                <!--     <div class="contact&#45;form"> -->
-                <!--         <form id="contact&#45;form" method="#" action="#" role="form"> -->
-                <!--  -->
-                <!--             <div class="form&#45;group wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".6s"> -->
-                <!--                 <input type="text" placeholder="Your Name" class="form&#45;control" name="name" id="name"> -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div class="form&#45;group wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".8s"> -->
-                <!--                 <input type="email" placeholder="Your Email" class="form&#45;control" name="email" id="email"> -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div class="form&#45;group wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay="1s"> -->
-                <!--                 <input type="text" placeholder="Subject" class="form&#45;control" name="subject" id="subject"> -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div class="form&#45;group wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay="1.2s"> -->
-                <!--                 <textarea rows="6" placeholder="Message" class="form&#45;control" name="message" id="message"></textarea> -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div id="success" class="success"> -->
-                <!--                 Thank you. The Mailman is on His Way :) -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div id="error" class="error"> -->
-                <!--                 Sorry, don't know what happened. Try later :( -->
-                <!--             </div> -->
-                <!--  -->
-                <!--             <div id="submit" class="wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay="1.4s"> -->
-                <!--                 <button type="submit" id="contact&#45;submit" class="btn btn&#45;default btn&#45;send hvr&#45;bounce&#45;to&#45;right" value="Send Message">Send Message</button> -->
-                <!--             </div> -->
-                <!--         </form> -->
-                <!--     </div> -->
-                <!-- </div> -->
-            </div>
-            <!-- <div class="col&#45;md&#45;6"> -->
-            <!--     <div class="map&#45;area"> -->
-            <!--         {{ with .Site.Data.contact.mapTitle }}<h2 class="subtitle  wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".3s">{{ . }}</h2>{{ end }} -->
-            <!--         {{ with .Site.Data.contact.mapSubtitle }}<p class="subtitle&#45;des wow fadeInDown" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".5s">{{ . }}</p>{{ end }} -->
-            <!--         <div class="map"> -->
-            <!--             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.277552998015!2d90.3678744!3d23.773128800000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0ae4adf3cb9%3A0x7f2cf443b764e4a4!2sShishu+Mela!5e0!3m2!1sen!2s!4v1435516022247" -->
-            <!--                 width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-            <!--         </div> -->
-            <!--     </div> -->
-            <!-- </div> -->
-        </div>
         <div class="row address-details">
-            <!-- <div class="col&#45;lg&#45;3 col&#45;sm&#45;6"> -->
-            <!--     <div class="address wow fadeInLeft" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".3s"> -->
-            <!--         <i class="ion&#45;ios&#45;location&#45;outline"></i> -->
-            <!--         {{ with .Site.Data.contact.officeAddress1 }}<h5>{{ . }}</h5>{{ end }} -->
-            <!--     </div> -->
-            <!-- </div> -->
-            <!-- <div class="col&#45;lg&#45;3 col&#45;sm&#45;6"> -->
-            <!--     <div class="address wow fadeInLeft" data&#45;wow&#45;duration="500ms" data&#45;wow&#45;delay=".5s"> -->
-            <!--         <i class="ion&#45;ios&#45;location&#45;outline"></i> -->
-            <!--         {{ with .Site.Data.contact.officeAddress2 }}<h5>{{ . }}</h5>{{ end }} -->
-            <!--     </div> -->
-            <!-- </div> -->
             {{ range .Site.Params.contact.social }}
             <div class="col-lg-3 col-sm-6">
                 <div class="phone wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".7s">
