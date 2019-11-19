@@ -61,11 +61,15 @@ theme = "timer"
             url  = "/contact"
             image  = "/images/Contact.jpg"
 
+    [params.slogan]
+        enable  = true
+        description = "Growing diversified vegetables on less than an acre, selling at farmers markets in the Portland metro area."
+
     # Banner Section
     [params.banner]
         enable  = true
         heading = "Little Sun Farm"
-        #description = "Little Sun Farm grows diversified vegetables on less than 1 acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
+        #description = "Little Sun Farm grows diversified vegetables on less than an acre, and sells at farmers markets in the Portland metro area. Check back in spring for 2020 farmers market information."
         btn     = false
         btnText = "www"
         btnURL  = "https://littlesunfarm.com/"
@@ -103,7 +107,7 @@ theme = "timer"
         enable  = true
         title   = "Follow on Instagram!"
         content = "Stay in the loop. See what's happening on the farm."
-        btnText = "Contact Us"
+        btnText = "Follow"
         btnURL  = "https://www.instagram.com/littlesunfarm/"
 
     # Portfolio Section On Homepage

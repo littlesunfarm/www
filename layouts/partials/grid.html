@@ -7,16 +7,16 @@
             <div class="col-md-4 col-sm-6">
                 {{ $delay := mul $index 300 }}
                         <a href="{{ .Permalink }}">
-                <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
-                    <div class="img-wrapper">
-                        <img src="{{ .Params.image | absURL }}" class="" alt="">
-                        <div class="overlay">
-                            <div class="buttons">
-                                <p>{{.Params.title}}</p>
-                            </div>
-                        </div>
-                    </div>
-                </figure>
+                            <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
+                                <div class="img-wrapper">
+                                    <img src="{{ .Params.image | absURL }}" class="" alt="">
+                                    <div class="overlay">
+                                        <div class="buttons">
+                                            <p>{{.Params.title}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </figure>
                         </a>
             </div>
             {{ end }}
@@ -24,16 +24,16 @@
             <div class="col-md-4 col-sm-6">
                 {{ $delay := mul $index 300 }}
                         <a href="{{ .url }}">
-                <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
-                    <div class="img-wrapper">
-                        <img src="{{ .image | absURL }}" class="" alt="">
-                        <div class="overlay">
-                            <div class="buttons">
-                                <p>{{.title}}</p>
-                            </div>
-                        </div>
-                    </div>
-                </figure>
+                            <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
+                                <div class="img-wrapper">
+                                    <img src="{{ .image | absURL }}" class="" alt="">
+                                    <div class="overlay">
+                                        <div class="buttons">
+                                            <p>{{.title}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </figure>
                         </a>
             </div>
             {{ end }}

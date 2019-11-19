@@ -285,6 +285,11 @@ a:hover {
   transform: scale(1);
 }
 
+#slogan h2 {
+  padding: 15px 0;
+  font-family: 'Roboto', sans-serif;
+}
+
 #hero-area {
   background-repeat: no-repeat;
   background-position: center bottom;
