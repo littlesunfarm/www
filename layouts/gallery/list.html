@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row">
 
-          {{ with .Resources.ByType "image" }}
+        {{ with .Resources.ByType "image" }}
             {{ range $index, $element := . }}
             {{ $image360px := ($element.Fill "360x270") }}
             <div class="col-md-4 col-sm-6">

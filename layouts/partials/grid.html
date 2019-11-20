@@ -3,38 +3,27 @@
 <section id="grid">
     <div class="container">
         <div class="row">
-            {{ range $index, $element:= where .Site.RegularPages "Type" "grid" }}
-            <div class="col-md-4 col-sm-6">
-                {{ $delay := mul $index 300 }}
-                        <a href="{{ .Permalink }}">
-                            <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
-                                <div class="img-wrapper">
-                                    <img src="{{ .Params.image | absURL }}" class="" alt="">
-                                    <div class="overlay">
-                                        <div class="buttons">
-                                            <p>{{.Params.title}}</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </figure>
-                        </a>
-            </div>
-            {{ end }}
+            {{ $resources := .Resources }}
             {{ range $index, $element := .Site.Params.grid.block }}
             <div class="col-md-4 col-sm-6">
                 {{ $delay := mul $index 300 }}
-                        <a href="{{ .url }}">
-                            <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
-                                <div class="img-wrapper">
-                                    <img src="{{ .image | absURL }}" class="" alt="">
-                                    <div class="overlay">
-                                        <div class="buttons">
-                                            <p>{{.title}}</p>
-                                        </div>
-                                    </div>
+                <a href="{{ .url }}">
+                    <figure class="" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms" style="">
+                        <div class="img-wrapper">
+                            {{ $path := printf "%s.jpg" $element.title }}
+                            {{ with $resources.GetMatch $path }}
+                              {{ $image360px := (.Fill "360x270") }}
+                              <img src="{{ $image360px.RelPermalink | absURL }}" class="" alt="" />
+                            {{ end }}
+                            <!-- <img src="{{ .image | absURL }}" class="" alt=""> -->
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <p>{{.title}}</p>
                                 </div>
-                            </figure>
-                        </a>
+                            </div>
+                        </div>
+                    </figure>
+                </a>
             </div>
             {{ end }}
 
