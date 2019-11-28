@@ -63,7 +63,7 @@ theme = "timer"
 
     [params.slogan]
         enable  = true
-        description = "Female and Native-owned vegetables and culinary herbs. Lovingly growning color, flavor, texture and nourishment on a small scale."
+        description = "Female and Native-owned vegetables and culinary herbs; lovingly growing color, flavor, texture and nourishment on a small scale."
 
     # Banner Section
     [params.banner]
