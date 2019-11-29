@@ -33,7 +33,7 @@ theme = "timer"
     # To use text as logo use 'logo_text'
     logo = "images/logo.png"
     logo_alt = ""
-    logo_text = "Little Sun Farm"
+    #logo_text = "Little Sun Farm"
 
     [params.grid]
         enable  = true
