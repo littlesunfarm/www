@@ -19,6 +19,10 @@ theme = "timer"
         url     = "gallery"
         weight  = 4
     [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 5
+    [[menu.nav]]
         name    = "Contact"
         url     = "contact"
         weight  = 6
@@ -52,10 +56,10 @@ theme = "timer"
             title   = "Farm Pics"
             url  = "/gallery"
             image  = "/images/Gallery.jpg"
-        #[[params.grid.block]]
-        #    title   = "Blog"
-        #    url  = "/blog"
-        #    image  = "/images/Blog.jpg"
+        [[params.grid.block]]
+            title   = "Blog"
+            url  = "/blog"
+            image  = "/images/Blog.jpg"
         [[params.grid.block]]
             title   = "Contact"
             url  = "/contact"
