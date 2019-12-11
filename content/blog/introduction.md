@@ -1,3 +1,10 @@
+---
+title: "First Year"
+date: 2019-12-11T14:40:43-0800
+tags:
+  - farming_solo
+---
+
 Guwaa’dzi! Hi there! I wanted to give a brief introduction of myself and the farm. For those of you who don’t know me, my name is Reiden Gustafson and I started Little Sun Farm in 2019. I grew on one-third of an acre the first year (all outdoors) on land leased from the East Multnomah Soil and Water Conservation District at the Headwaters Incubator Farm, outside of Portland, Oregon. In 2019 I grew 58 different varieties (24 unique crops) and I sold primarily at two farmers markets (Happy Valley and Hawthorne). The creation of the farm was something I thought about for several years prior. In 2015 I went back to school to study agriculture and organic farming, and was able to weave a few internships on organic vegetable farms into the degree process. I graduated from Oregon State University in 2018 with a BS in Agricultural Sciences and an Organic Farming certificate from Clackamas Community College. 
 
 Since my personality type is one that thrives on planning, tracking and decision making, I enjoy having the freedom to run all aspects of the business. Every day offers new and engaging creative challenges. One of my biggest inspirations for the business (and for my life in general) comes from my Native American heritage. From my mother’s side of the family I’m enrolled Laguna Pueblo and also Comanche and Dutch. My father’s side is mostly Scandinavian decent. Having grown up in suburban America in Colorado and the Pacific Northwest, I feel honored to have the opportunity to spend time with family on the Indian reservation. My parents and other family members currently live in Paguate, a small Laguna village located just east of Mt. Taylor and an hours drive west of Albuquerque. Knowing that my Pueblo ancestors have lived, farmed and hunted in this arid high desert region for thousands of years, makes the place is very special to me. 
