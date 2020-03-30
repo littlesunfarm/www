@@ -11,7 +11,7 @@ theme = "timer"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "Farmers Markets"
+        name    = "Farmers Market"
         url     = "markets"
         weight  = 3
     [[menu.nav]]
@@ -49,7 +49,7 @@ theme = "timer"
             url  = "/about"
             image  = "/images/about/About.jpg"
         [[params.grid.block]]
-            title   = "Markets"
+            title   = "Farmers Market"
             url  = "/markets"
             image  = "/images/Markets.jpg"
         [[params.grid.block]]
@@ -67,7 +67,7 @@ theme = "timer"
 
     [params.slogan]
         enable  = true
-        description = "Female and Native-owned vegetables and culinary herbs; lovingly growing color, flavor, texture and nourishment on a small scale."
+        description = "Native American-owned vegetables and culinary herbs grown in Gresham, OR. Respect the Earth. Love the soil. Eat local."
 
     # Banner Section
     [params.banner]
