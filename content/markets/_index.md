@@ -9,8 +9,6 @@ Little Sun Farm sells at the **Woodstock** and **Hawthorne** farmers markets.
 
 ## Woodstock Farmers Market
 
-Eastridge Covenant Church parking lot (corner of SE Sunnyside Rd. & 142nd)
-
 Sundays 10-2
 
 June-October
