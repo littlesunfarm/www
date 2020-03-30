@@ -11,7 +11,7 @@ theme = "timer"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "Markets"
+        name    = "Farmers Markets"
         url     = "markets"
         weight  = 3
     [[menu.nav]]
