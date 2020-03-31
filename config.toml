@@ -146,3 +146,6 @@ theme = "timer"
             icon = "ion-social-instagram-outline"
             link = "https://www.instagram.com/littlesunfarm/"
             text = "littlesunfarm"
+
+[markup.goldmark.renderer]
+unsafe= true
