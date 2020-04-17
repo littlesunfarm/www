@@ -11,13 +11,17 @@ theme = "timer"
         url     = "about"
         weight  = 2
     [[menu.nav]]
+        name    = "CSA"
+        url     = "CSA/2020_roseway_csa_2.pdf"
+        weight  = 3
+    [[menu.nav]]
         name    = "Farmers Market"
         url     = "markets"
-        weight  = 3
+        weight  = 4
     [[menu.nav]]
         name    = "Gallery"
         url     = "gallery"
-        weight  = 4
+        weight  = 5
     [[menu.nav]]
         name    = "Contact"
         url     = "contact"
